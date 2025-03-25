@@ -5,7 +5,7 @@ I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer 
 ## What am I working on? 🧑‍💻
 
 - 🎮 Right now I'm exploring Godot by creating a small 2D game. You can follow the progress I make [here](https://github.com/AndreicuD/Gravity-Game-Demo). 
-I've used it once before on the 2024 Vianu Game Jam competition, and you can see it [here](https://chadchampion.itch.io/bloody-vlad).
+I've used Godot once before on the 2024 Vianu Game Jam, and you can see it [here](https://chadchampion.itch.io/bloody-vlad).
 
 - ⚙️ Also working on my next web project for InfoEducatie 2025.
 
