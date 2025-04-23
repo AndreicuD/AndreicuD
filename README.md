@@ -9,7 +9,7 @@ I've used Godot once before on the 2024 Vianu Game Jam, and you can see it [here
 
 - ⚙️ Also working on my next web project for InfoEducatie 2025.
 
-## Some of my results in competitions:
+## Achievements 🌟
 ### 9th Grade 
 
 - 🥈 2nd place at Vianu Game Jam, 2023. 
