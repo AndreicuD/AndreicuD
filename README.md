@@ -11,16 +11,17 @@ I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer 
 ## Achievements 🌟
 ### 9th Grade 
 
-- 🥈 2nd place at Vianu Game Jam, 2023. 
+- 🥈 <b>2nd place</b> at Vianu Game Jam, 2023. 
 
 ### 10th Grade
 
-- 🥇 1st place at Prosoft@NT 2024, Team Competition, National Contest.  
-- 🥈 2nd place at Vianu Game Jam, 2024, National Competition. [The Game](https://chadchampion.itch.io/bloody-vlad).
-- 🥇 1st place in the web category at InfoEducatie 2024, county stage. Ranked 3rd overall in Bucharest (93/100 points) when considering all sections.  
-- 🏅 5th place in the web category at InfoEducatie 2024 with my project [Chime-Share](https://chime-share.com), national stage. Honorable mention.  
+- 🥇 <b>1st place</b> at Prosoft@NT 2024, Team Competition, National Contest.  
+- 🥈 <b>2nd place</b> at Vianu Game Jam, 2024, National Competition. [The Game](https://chadchampion.itch.io/bloody-vlad).
+- 🥇 <b>1st place</b> in the web category at InfoEducatie 2024, county stage. Ranked 3rd overall in Bucharest (93/100 points) when considering all sections.  
+- 🏅 <b>5th place</b> in the web category at InfoEducatie 2024 with my project [Chime-Share](https://chime-share.com), national stage. Honorable mention.  
 
 ### 11th Grade
 
-- 🏅 Maximum score at Bebras 2025.  
-- 8th place at Prosoft@NT 2025 National Competition, Website category. [The project](https://darkened-tunes.ro).
+- 🏅 <b>Maximum score</b> at Bebras 2025.  
+- <b>8th place</b> at Prosoft@NT 2025 National Competition, Website category. [The project](https://darkened-tunes.ro).
+- 🏅 <b>4th place</b> at the FiiCode National Competition, at the Game Development category, with [this game](https://github.com/AndreicuD/Tales-of-the-Underworld-Demo).
