@@ -25,3 +25,4 @@ I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer 
 - 🏅 <b>Maximum score</b> at Bebras 2025.  
 - <b>8th place</b> at Prosoft@NT 2025 National Competition, Website category. [The project](https://darkened-tunes.ro).
 - 🏅 <b>4th place</b> at the FiiCode National Competition, at the Game Development category, with [this game](https://github.com/AndreicuD/Tales-of-the-Underworld-Demo).
+- 🥉 <b>3th place</b> at <b>Sing das DSD International Competition</b>, with our music project.
