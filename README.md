@@ -6,7 +6,7 @@ I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer 
 
 - 🎮 Developing a small 2D game with different physics mechanics and a simple art style. You can find it [here](https://github.com/AndreicuD/Gravity-Game-Demo). 
 
-- ⚙️ Also working on my next web project for InfoEducatie 2025.
+- ⚙️ Also working on my next web project for InfoEducatie 2025, [SkillSwap](https://github.com/AndreicuD/SkillSwap).
 
 ## Achievements 🌟
 ### 9th Grade 
@@ -25,4 +25,5 @@ I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer 
 - 🏅 <b>Maximum score</b> at Bebras 2025.  
 - <b>8th place</b> at Prosoft@NT 2025 National Competition, Website category. [The project](https://darkened-tunes.ro).
 - 🏅 <b>4th place</b> at the FiiCode National Competition, at the Game Development category, with [this game](https://github.com/AndreicuD/Tales-of-the-Underworld-Demo).
-- 🥉 <b>3th place</b> at <b>Sing das DSD International Competition</b>, with our music project.
+- 🥉 <b>3th place</b> at <b>Sing das DSD International Competition</b>, with our [music project](https://www.youtube.com/watch?v=3_T9pet-E-U).
+- 🥈 <b>2nd place</b> in the web category at InfoEducatie 2025, county stage, qualified for the nationals. 
