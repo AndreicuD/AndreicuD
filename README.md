@@ -18,7 +18,7 @@ I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer 
 - 🥇 <b>1st place</b> at Prosoft@NT 2024, Team Competition, National Contest.  
 - 🥈 <b>2nd place</b> at Vianu Game Jam, 2024, National Competition. [The Game](https://chadchampion.itch.io/bloody-vlad).
 - 🥇 <b>1st place</b> in the web category at InfoEducatie 2024, county stage. Ranked 3rd overall in Bucharest (93/100 points) when considering all sections.  
-- 🏅 <b>5th place</b> in the web category at InfoEducatie 2024 with my project [Chime-Share](https://chime-share.com), national stage. Honorable mention.  
+- 🏅 <b>5th place</b> in the web category at InfoEducatie 2024 with my project [Chime-Share](https://chime-share.flexi-design.ro/), national stage. Honorable mention.  
 
 ### 11th Grade
 
