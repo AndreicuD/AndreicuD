@@ -27,3 +27,4 @@ I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer 
 - 🏅 <b>4th place</b> at the FiiCode National Competition, at the Game Development category, with [this game](https://github.com/AndreicuD/Tales-of-the-Underworld-Demo).
 - 🥉 <b>3th place</b> at <b>Sing das DSD International Competition</b>, with our [music project](https://www.youtube.com/watch?v=3_T9pet-E-U).
 - 🥈 <b>2nd place</b> in the web category at InfoEducatie 2025, county stage, qualified for the nationals. 
+- 🥉<b>Bronze Medal</b> in the web category at InfoEducatie 2025 with my project [Skill Swap](https://skill-swap.flexi-design.ro/), national stage.
