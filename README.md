@@ -1,12 +1,10 @@
 # Hey 👋
 
-I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer Science. I have a few too many hobbies for my own good, but I try to balance them all as best as I can :D
+I'm Huțanu Andrei, a student at "Tudor Vianu" National High School of Computer Science. My 3 main hobbies are coding, photography and music :D
 
 ## What am I working on? 🧑‍💻
 
-- 🎮 Developing a small 2D game with different physics mechanics and a simple art style. You can find it [here](https://github.com/AndreicuD/Gravity-Game-Demo). 
-
-- ⚙️ Also working on my next web project for InfoEducatie 2025, [SkillSwap](https://github.com/AndreicuD/SkillSwap).
+- For now I've stopped development on my projects to focus on my terminal year in highschool.
 
 ## Achievements 🌟
 ### 9th Grade 
